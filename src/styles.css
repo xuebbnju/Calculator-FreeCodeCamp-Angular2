@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Oleo Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oleo Script'), local('OleoScript-Regular'), url(https://fonts.gstatic.com/s/oleoscript/v5/_weQNDK6Uf40CiGFKBBUjrrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
+}
+html,body{
+	height:100%;
+	width:100%;
+ background-color: #56351E;
+}
+
+/* You can add global styles to this file, and also import other style files */

@@ -1,0 +1,43 @@
+.wrapper{
+	width:30%;
+	margin-top:8%;
+	background-color:#C47335;
+	border-radius:10px;
+	padding:0 20px;
+
+	header{
+		h1{
+		 font-family: 'Oleo Script', cursive;
+         margin-top: 10px;
+         color: #F19953;
+	}
+	input{
+		width:100%;
+		height:35px;
+		background-color: #F19953;
+		outline:none;
+		border:none;
+		border-radius:2px;
+		text-align:right;
+
+	}
+
+	}
+	.buttons{
+		button{
+        width:100%;
+        height:60px;
+        margin-top:10px;
+        border:none;
+        border-radius:3px;
+        background: #fff;
+        line-height:60px;
+        color: #f19953;
+       
+		}
+	padding-bottom:30px;	
+	padding-top:10px;
+	}
+	
+
+}
